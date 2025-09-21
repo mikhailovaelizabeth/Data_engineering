@@ -17,4 +17,4 @@
 
 Скриншот с результатом команды `raw_data.head(10)`
 
-![Скриншот](https://drive.google.com/file/d/1Q-sw7M1NdnPCksXa0rzha9tQLNQeuGos/view?usp=drive_link)
+![Скриншот](screenshots/readme.png)
