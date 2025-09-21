@@ -14,6 +14,10 @@
 
 * "Сырой" файл расположен по [ссылке](https://drive.google.com/file/d/1ikuXF1TNjzX6-_GKWLaPh_9Jz0txgVDM/view?usp=drive_link).
 
+Для работы с проектом необходимо создать виртуальное окружение на базе **pip**, а затем воспользоваться командой 
+
+`pip install -r requirements.txt`
+
 
 Скриншот с результатом команды `raw_data.head(10)`
 
