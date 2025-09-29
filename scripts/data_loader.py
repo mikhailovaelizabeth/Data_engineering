@@ -33,7 +33,7 @@ def main():
         for col in raw_data.select_dtypes(include="float64").columns:
             raw_data[col] = pd.to_numeric(raw_data[col], downcast="float")
 
-        # --- Сохраняем результат ---
+        # Сохранение результата
         processed_output = "processed_dataset.parquet"
         raw_data.to_parquet(processed_output, index=False)
 
