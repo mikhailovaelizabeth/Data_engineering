@@ -1,1 +1,4 @@
 /data/pubchem_raw.csv
+*.env
+*.csv
+*.parquet
