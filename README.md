@@ -25,7 +25,7 @@
 
 
 
-*подробное заполнение ридми в процессе*
+*_подробное заполнение ридми в процессе_*
 
 
 Рендер ноутбука расположен по [ссылке](https://nbviewer.org/github/mikhailovaelizabeth/Data_engineering/blob/main/notebooks/EDA.ipynb)
