@@ -22,3 +22,10 @@
 Скриншот с результатом команды `raw_data.head(10)`
 
 ![Скриншот](screenshots/readme.png)
+
+
+
+*подробное заполнение ридми в процессе*
+
+
+Рендер ноутбука расположен по [ссылке](https://nbviewer.org/github/mikhailovaelizabeth/Data_engineering/blob/main/notebooks/EDA.ipynb)
