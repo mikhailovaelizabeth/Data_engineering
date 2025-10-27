@@ -2,4 +2,4 @@
 *.env
 *.csv
 *.parquet
-*.ipynb_chekpoints
+*.ipynb_checkpoints
