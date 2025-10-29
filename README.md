@@ -125,6 +125,23 @@ ___
 ___
 ## Сбор пакета etl
 ***в данный момент в разработке***
+
+    project-root/
+    ├─ etl/
+    │  ├─ __init__.py
+    │  ├─ extract.py
+    │  ├─ transform.py
+    │  ├─ validate.py
+    │  ├─ load.py
+    │  └─ main.py
+    ├─ data/
+    │  ├─ raw/             # сюда сохраняем исходники (.csv)
+    │  └─ processed/       # сюда сохраняем .parquet/.csv
+    ├─ README.md
+    ├─ requirements.txt
+    ├─ .gitignore
+    └─ (удалённые) data_loader.py, write_to_db.py 
+
 ___
 
 ### Итоги 
